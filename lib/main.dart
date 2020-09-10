@@ -97,21 +97,21 @@ class _HomePageState extends State<HomePage> {
                         userName: 'みやぞん',
                         userImage: 'assets/images/story/this5.jpeg',
                         feedTime: '1 hr ago',
-                        feedText: '収録終わりー',
+                        feedText: '収録終わりー。世界の果てまでいってQ〜',
                         feedImage: 'assets/images/hukei2.jpg'
                     ),
-                    makeFeed(
-                        userName: 'Azamat Zhanisov',
+                      makeFeed(
+                        userName: 'Kent Yamazaki',
                         userImage: 'assets/images/story/this2.jpeg',
                         feedTime: '3 mins ago',
-                        feedText: "All the Lorem Ipsum generators on the Internet tend to repeat predefined.All the Lorem Ipsum generators on the Internet tend to repeat predefined.All the Lorem Ipsum generators on the Internet tend to repeat predefined.",
+                        feedText: "映画の撮影終わりに観光",
                         feedImage: 'assets/images/hukei.jpg'
                     ),
                     makeFeed(
-                        userName: 'Azamat Zhanisov',
+                        userName: 'Takeru Sato',
                         userImage: 'assets/images/story/this3.jpeg',
                         feedTime: '3 mins ago',
-                        feedText: "All the Lorem Ipsum generators on the Internet tend to repeat predefined.",
+                        feedText: "良き休日",
                         feedImage: 'assets/images/hukei5.jpg'
                     ),
                   ],
